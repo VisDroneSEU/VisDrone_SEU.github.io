@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Member 1"
+collection: member
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
