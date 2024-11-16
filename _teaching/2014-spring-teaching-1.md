@@ -1,11 +1,11 @@
 ---
-title: "Member 1"
+title: "Xin Li"
 collection: member
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Master Student, Southeast University"
+date: 2024
+location: "Nanjing, Jiangsu"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
