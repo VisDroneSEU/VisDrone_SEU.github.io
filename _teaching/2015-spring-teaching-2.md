@@ -1,11 +1,11 @@
 ---
-title: "孙一鸣"
+title: "Yiming Sun"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "东南大学 至善博士后"
+venue: "Zhishan Postdoctoral Fellow, Southeast University"
 date: 2024
-location: "City, Country"
+location: "Nanjing Jiangsu"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
