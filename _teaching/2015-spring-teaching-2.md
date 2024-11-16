@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "孙一鸣"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "东南大学 至善博士后"
+date: 2024
 location: "City, Country"
 ---
 
