@@ -24,11 +24,11 @@ author:
   avatar           : "visdrone1.png"
   name             : "VisDrone_SEU"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Vision, AI"
-  location         : "Nanjing, Jiangsu"
-  employer         : "Southeast University"
+  bio              : "计算机视觉，人工智能"
+  location         : "江苏，南京"
+  employer         : "东南大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhupengfei@tju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
