@@ -4,7 +4,7 @@ collection: member
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Master Student, Southeast University"
-date: 2024
+date: 2024-09-01
 location: "Nanjing, Jiangsu"
 ---
 
