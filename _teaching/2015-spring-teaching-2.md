@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Zhishan Postdoctoral Fellow, Southeast University"
-date: 2024
+date: 2024-09-01
 location: "Nanjing Jiangsu"
 ---
 
