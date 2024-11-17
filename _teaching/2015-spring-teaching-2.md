@@ -1,6 +1,6 @@
 ---
 title: "Yiming Sun"
-collection: teaching
+collection: Member
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Zhishan Postdoctoral Fellow, Southeast University"
