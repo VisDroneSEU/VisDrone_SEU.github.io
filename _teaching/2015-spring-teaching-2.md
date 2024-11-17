@@ -1,6 +1,6 @@
 ---
 title: "Yiming Sun"
-collection: Member
+collection: member
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Zhishan Postdoctoral Fellow, Southeast University"
@@ -15,9 +15,9 @@ Yiming Sun (孙一铭) has joined the Zhishan Postdoctoral Program (至善博士
 
 Research Interests
 ======
-  ·Multimodal Image Fusion
-  ·Multimodal Object Detection
-  ·UAV (Unmanned Aerial Vehicles) Vision
+  ·Multimodal Image Fusion\n
+  ·Multimodal Object Detection\n
+  ·UAV (Unmanned Aerial Vehicles) Vision\n
   
 News
 ======
