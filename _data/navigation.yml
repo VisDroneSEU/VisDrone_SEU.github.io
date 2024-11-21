@@ -6,22 +6,22 @@
 
 main:
   - title: "研究方向"
-    url: /publications/
+    url: /talks/
 
   - title: "团队成员"
     url: /teaching/    
 
   - title: "论文"
-    url: /talks/    
+    url: /publications/    
     
   - title: "项目"
-    url: /project/
+    url: /portfolio/
         
   - title: "新闻"
     url: /cv/
     
   - title: "文化"
-    url: /posts/
+    url: /sass/
     
   - title: "招生"
     url: /markdown/
